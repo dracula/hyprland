@@ -16,3 +16,5 @@ Copy/replace the given colors from `hyprland.conf` into `~/.config/hypr/hyprland
 
 ie. `cat hyprland.conf >> ~/.config/hypr/hyprland.conf` and adjust with your preferred editor.
 
+Copy `dracula_colors.conf` + `hyprlock.conf` into `~/.config/hypr/` and change the path to your wallpaper in the latter file.
+
